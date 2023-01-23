@@ -4,7 +4,7 @@
 
 <h4>Technologies used</h4>
 <ul>
-  <li>ReactJs</li>
+  <li>ReactJS</li>
   <li>React Hooks</li>
   <li>Componentization</li>
   <li>React Router Dom</li>
